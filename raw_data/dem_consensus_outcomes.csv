@@ -1,0 +1,165 @@
+﻿lbc36_no,trakathon_dem_diagnosis,trakathon_subtype,trakathon_code,trakathon_date_diagnosis,cog_ax_score,capacity,dementia_medication,consensus_meeting_date,consensus_dementia_diagnosis,dementia,consensus_subtype,dementia_sub,consensus_diagnosis_date,death_data,dem_death_cert,imaging_available,dem_imaging
+LBC360003,Probable,Uncertain type,Uncertain type,Letter of initial diagnosis not found,MMSE 11/30 (16/10/2013),N/A - deceased,Yes/ had Rivastigmine earlier,06/07/2022,Dementia,1,Mixed vascular and Alzheimer's,3,02/07/2010,Ia,1,CT & MRI,2
+LBC360024,Probable,"Mixed - alcohol, Alzheimer's",F00.2,05/11/2021,No formal testing as reluctant to engage,Assumed no,No,06/07/2022,Dementia,1,"Predominantly alcohol, possibly Alzheimer's",6,05/11/2021,Alive,NA,CT,1
+LBC360029,Possible,Had delirium,N/A,N/A,No formal testing,N/A - deceased,N/A,06/07/2022,Not dementia,0,NA,0,NA,Died; no dementia recorded,0,MRI,2
+LBC360036,Possible,Possible delirium,N/A,N/A,MoCA 23/30 (late October 2017),N/A - deceased,N/A,06/07/2022,Not dementia,0,NA,0,NA,Died; no dementia recorded,0,CT & MRI,2
+LBC360063,Probable,Probable Alzheimer's Dementia,F00.1,09/07/2014,ACE-III 43/100 (02/07/2014),N/A - deceased,Yes/ Memantine,06/07/2022,Dementia,1,Alzheimer's,1,09/07/2014,Ia,1,CT & MRI,2
+LBC360074,Probable,Probable Alzheimer's Dementia,F00.1,17/01/2018,ACE-III 72/100 (14/07/2017),N/A - deceased,Yes/ Memantine,06/07/2022,Dementia,1,Alzheimer's,1,17/01/2018,IIa,1,CT,1
+LBC360075,Possible,Recent delirium,n/a,n/a,MOCA 18/25 (23/12/2021),Assumed yes ,No ,06/07/2022,Not dementia,0,NA,0,NA,Alive,NA,No,0
+LBC360081,Probable,Probable mixed Alzheimer's and vascular dementia,F00.2,early 2020,65/100 ACE III (20/01/2020),No (notes document this late 2020),Yes / Memantine,06/07/2022,Dementia,1,Unclear,9,01/01/2020,Alive,NA,CT,1
+LBC360082,Probable,Probable Alzheimer's,F00.1,06/01/2016,53/100 ACE III (mid August 2015),N/A - deceased,Yes / Rivastigmine (patch),06/07/2022,Dementia,1,Alzheimer's,1,06/01/2016,II,1,MRI,2
+LBC360107,Probable,Probable Dementia with Lewy Bodies ,G31.8,11/10/2018,70/100 ACE III (16/08/2018),N/A- deceased,Yes/ Donepezil and Memantine,06/07/2022,Dementia,1,Lewy body,4,15/10/2018,II,1,CT & SPECT & DAT,3
+LBC360114,Probable,Probable Alzheimer's Dementia,F00.1,31/05/2012,MMSE 16/30 (09/02/2012),N/A - deceased,Yes / Donepezil,06/07/2022,Dementia,1,Alzheimer's,1,31/05/2012,Ib,1,MRI,2
+LBC360118,Possible,"Awaiting assessment with MoE, known Parkinson's Disease",N/A,N/A ,Not yet performed,Assumed yes ,No ,28/07/2022,Not dementia,0,NA,0,NA,Alive,NA,CT & MRI,2
+LBC360125,Probable,Probable mixed Alzheimer's and vascular dementia,F00.2,19/06/2015,68/100 ACE III (2015),N/A - deceased,Yes / Donepezil,06/07/2022,Dementia,1,Alzheimer's,1,19/06/2015,II,1,CT & MRI,2
+LBC360127,Possible,Possible - Mild Cognitive Impairment,F06.7,2018,84/100 ACE III (2018),Uncertain,N/A,28/07/2022,Not dementia,0,NA,0,NA,Alive,NA,CT,1
+LBC360139,Probable,Probable vascular dementia,F01,2014 (unconfirmed),unknown,Assumed no,Yes/ Memantine,06/07/2022,Dementia,1,Unclear,9,01/05/2014,II,1,CT,1
+LBC360144,Probable ,Probable Alzheimer's Dementia,F00.1,18/03/2016,ACE-III 67/100,N/A - deceased,Yes / memantine ,06/07/2022,Dementia,1,Alzheimer's,1,18/03/2016,Ib,1,MRI,2
+LBC360146,Probable ,Probable Alzheimer's Dementia,F00.1,03/02/2021,MoCA 17/30 (30/10/2020),Assumed yes ,Yes / memantine ,06/07/2022,Dementia,1,Alzheimer's,1,03/02/2021,Alive,NA,CT,1
+LBC360155,Probable,Probable mixed Alzheimer's and vascular dementia,F00.2,28/02/2020,47/100 ACE-III (14/02/2020),Assumed no,"No (side effects to Donepezil, declined alternative medication)",06/07/2022,Dementia,1,Alzheimer's,1,28/02/2020,Alive,NA,MRI,2
+LBC360167,Possible,Mild cognitive impairment,F06.7,22/01/2021,50/62 tele-ACE III (18/11/2020),Assumed yes,N/A,28/07/2022,MCI,3,NA,NA,05/04/2022,Alive,NA,MRI,2
+LBC360176,Probable,Uncertain type,F03 (unspecified),May-19,Unknown (out of area diagnosis),Uncertain,Yes/ Donepezil,06/07/2022,Dementia,1,Unclear,9,24/05/2019,Alive,NA,MRI,2
+LBC360178,Probable,Probable Alzheimer's type dementia,F00.1,11/12/2019,58/100 ACE III (November 2019),Assumed no,"No (noncompliant with Donepezil, declined Rivastigmine patch)",06/07/2022,Dementia,1,Alzheimer's,1,11/12/2019,Alive,NA,CT & MRI,2
+LBC360185,Possible,AWAITING MEMORY CLINIC APTS JUNE 2021,,,,Uncertain,N/A,06/07/2022,Possible dementia,2,Unclear,NA,01/02/2021,Died; no dementia recorded,0,No,0
+LBC360188,Possible,Mild cognitive impairment,F06.7,No formal diagnosis in life,ACE III 89/100 (09/06/2021),N/A - deceased,No,06/07/2022,MCI,3,NA,NA,09/06/2021,Died; no dementia recorded,0,CT,1
+LBC360195,Possible,Possible mild cognitive impairment,F06.7,Not diagnosed,MoCA outstanding (still in hospital),Assumed yes,No,28/07/2022,Not dementia,0,NA,0,NA,Alive,NA,CT,1
+LBC360210,Probable,"Probable mixed dementia (Alzheimer's, Vascular)",F00.2,21/12/2018,ACE III 72/100 (November 2018),N/A - deceased,No,06/07/2022,Dementia,1,Unclear,9,21/12/2018,Ib,1,No,0
+LBC360211,Probable,"Probable mixed dementia (Alzheimer's, Vascular)",F00.2,16/03/2017,ACE III 66/100 (14/12/2016),N/A - deceased,Yes/ Galantamine,06/07/2022,Dementia,1,Mixed Alzheimer's and vascular,3,16/03/2017,II,1,MRI,2
+LBC360222,Possible,N/A,F06.7,Not diagnosed,ACE III 72/100 (10/06/2021),Assumed yes,No,28/07/2022,MCI,3,Vascular,2,03/06/2021,Alive,NA,No,0
+LBC360229,Probable,Probable Alzheimer's ,F00.1,20/01/2021,Unknown,Assumed no,Yes/ Memantine,06/07/2022,Dementia,1,Alzheimer's,1,20/01/2021,Alive,NA,MRI,2
+LBC360233,Possible,N/A,N/A,N/A ,Unknown ,Assumed yes ,No ,06/07/2022,Not dementia,0,NA,0,NA,Alive,NA,CT,1
+LBC360235,Probable ,Probable Mixed (Alzheimer's/Vascular) Dementia ,F00.2,25/06/2019,ACE III 66/100  (March 2019),Assumed yes ,Yes / memantine ,19/07/2022,Dementia,1,Mixed Alzheimer's and vascular,3,25/06/2019,Alive,NA,MRI,2
+LBC360237,Probable,Probable mixed Alzheimer's and vascular dementia,F00.2,06/04/2021,ACE III 72/100 (06/04/2021),Assumed no,No,19/07/2022,Dementia,1,Unclear,9,06/04/2021,Alive,NA,No,0
+LBC360241,Probable ,Probable Mixed Dementia ,F00.2 ,15/11/2016,MMSE 23/30 (October 2016),N/A - deceased,Yes / Rivastigmine ,19/07/2022,Possible dementia,2,Unclear,NA,NA,Died; no dementia recorded,0,CT,1
+LBC360246,Possible ,Unknown ,,N/A ,MOCA 14/30 18/10/2018 ,N/A - deceased ,No ,19/07/2022,Not dementia,0,NA,0,NA,Died; no dementia recorded,0,CT,1
+LBC360253,Probable ,Probable Alzheimer's Dementia,G30.9,01/10/2019,MMSE 25/30 (July 2019),N/A -deceased ,Yes / Rivastigmine ,19/07/2022,Dementia,1,Alzheimer's,1,01/10/2019,II,1,CT,1
+LBC360257,Possible,Mild cognitive impairment,F06.7,26/06/2009,ACE III 88/100 (26/06/2009),N/A - deceased,No,19/07/2022,Not dementia,0,NA,0,NA,Died; no dementia recorded,0,MRI,2
+LBC360267,Probable ,Probable Alzheimer's dementia ,G30.8,21/05/2019,ACE III 60/100 May 2019 ,N/A - deceased ,No ,19/07/2022,Dementia,1,Alzheimer's,1,21/05/2019,II,1,CT & MRI,2
+LBC360268,Probable ,Unspecified,F03.X ,28/11/2017,ACE III 72/100 18/08/2018,Assumed no ,"No (side effects to donepezil, memantine and rivastigmine)",19/07/2022,Dementia,1,Unclear,9,28/11/2017,Alive,NA,CT,1
+LBC360269,Possible,Mild cognitive impairment,F06.7,01/04/2021,MMSE 29/30 (12/03/2020),Assumed yes,No,19/07/2022,Not dementia,0,NA,0,NA,Alive,NA,CT,1
+LBC360274,Probable ,Mixed dementia (Vascular/Alzheimer's),F01.9,Approximately 16/12/2015,ACE III 73/100 (16/12/2015) ,N/A - deceased ,Yes / Donepezil ,19/07/2022,Dementia,1,Unclear,9,16/12/2015,II,1,CT,1
+LBC360275,Possible ,N/A,N/A,N/A ,N/A,N/A - deceased ,No,19/07/2022,Not dementia,0,NA,0,NA,Died; no dementia recorded,0,CT,1
+LBC360276,Possible ,Mild cognitive impairment ,F06.7,09/12/2015,ACE III 75/100 (January 2015).,N/A deceased ,No,19/07/2022,Dementia,1,Parkinson's disease,7,09/12/2015,II,1,CT,1
+LBC360277,Probable,Probable mixed Alzheimer's and vascular dementia,F00.2,18/08/2021,ACE III 60/100 (07/07/2021),Probably yes,No,19/07/2022,Dementia,1,Mixed Alzheimer's and vascular,3,18/08/2021,Alive,NA,CT,1
+LBC360283,Probable ,Probable Alzheimer's dementia ,F10.73,26/11/2014,ACE III 69/100 (12/11/2014) ,N/A deceased,yes / Donepezil ,19/07/2022,Dementia,1,Alzheimer's,1,01/11/2013,II,1,CT,1
+LBC360285,probable ,Probable Alzheimer's Dementia,G30.9 ,Unknown/unclear,Unknown ,N/A - deceased ,Yes / Galantamine ,19/07/2022,Dementia,1,Alzheimer's,1,02/07/2006,Ib,1,CT,1
+LBC360294,Possible ,Mild cognitive impairment ,F06.7,Unknown/unclear,N/A ,N/A deceased ,No ,19/07/2022,Not dementia,0,NA,0,NA,Died; no dementia recorded,0,CT,1
+LBC360301,Probable,Probable Alzheimer's dementia,F00.1,10/11/2020,Tele ACE III 32/62 (1/10/2020),Assumed yes,Yes/ Donepezil,19/07/2022,Dementia,1,Alzheimer's,1,10/11/2020,Alive,NA,No,0
+LBC360306,Possible,Mild cognitive impairment,F06.7,14/07/2021,ACE III 63/100 (19/05/2021),Assumed yes,No,19/07/2022,Dementia,1,Unclear,9,12/07/2022,Alive,NA,CT,1
+LBC360312,Probable ,"Probable mixed dementia (Alzheimer's, Vascular)",F00.2,29/12/2011,ACE-R 71/100 (29/12/2011),N/A - deceased,Yes/ Donepezil,19/07/2022,Dementia,1,Unclear,9,29/12/2011,Died; no dementia recorded,0,CT,1
+LBC360316,Probable,Probable mixed Alzheimer's and vascular dementia,F00.2,15/09/2020,15/09/2020),Uncertain,Yes/ Memantine,19/07/2022,Dementia,1,Alzheimer's,1,15/09/2020,Alive,NA,CT,1
+LBC360321,Probable ,Probable Dementia with Lewy Bodies ,G31.8,21/08/2012,ACE-R 58/100 (21/08/2012),N/A - deceased,Yes/ Galantamine,19/07/2022,Dementia,1,Lewy body,4,07/08/2012,II,1,CT & DAT & MRI,3
+LBC360331,Probable,Probable Vascular Dementia ,F01,14/01/2009,Unknown,N/A -deceased ,No,19/07/2022,Dementia,1,Vascular,2,11/12/2008,Died; no dementia recorded,0,CT & MRI,2
+LBC360334,Probable ,Alzheimer's dementia,F00.1,11/11/2-16,Unknown ,N/A deceased ,Yes/Rivastigmine,19/07/2022,Dementia,1,Alzheimer's,1,02/07/2010,Ia,1,MRI,2
+LBC360335,Probable ,Alzheimer's dementia,F00.1,30/05/2015,ACE III 27/100 (30/05/2015),N/A- deceased,Yes/Memantine,19/07/2022,Dementia,1,Unclear,9,30/05/2015,II,1,CT,1
+LBC360337,Probable ,Mixed dementia (Vascular/Alzheimer's),F01.9,17/01/2012,ACE-R 71/100 (17/01/2012),N/A- deceased,Yes/Donepezil,19/07/2022,Dementia,1,Alzheimer's,1,27/10/2011,Died; no dementia recorded,0,CT,1
+LBC360356,Probable ,Probable Alzheimer's Dementia,F00.1,04/03/2022,ACE III 64/100 (18/02/2022),Assumed yes ,Yes / Donepezil,19/07/2022,Dementia,1,Alzheimer's,1,04/03/2022,Alive,NA,CT,1
+LBC360363,Possible,Mild cognitive impairment,F06.7,22/07/2021,MOCA 20/30 (22/07/2021),Assumed yes,No,19/07/2022,MCI,3,Unclear,NA,03/01/2019,Alive,NA,CT,1
+LBC360367,Probable,Probable Alzheimer's dementia,F00.1,10/08/2020,ACE-III 73/100 (10/08/2020),N/A - deceased,No,19/07/2022,Dementia,1,Alzheimer's,1,10/08/2020,Died; no dementia recorded,0,No,0
+LBC360380,Probable ,Probable Mixed (Alzheimer's/Vascular) Dementia ,F00.2 ,20/11/2020,ACE III 65/100,Assumed yes ,No ,19/07/2022,Dementia,1,Unclear,9,20/11/2020,Alive,NA,CT,1
+LBC360391,Probable ,Probable Mixed (Alzheimer's/Vascular) Dementia ,F00.2 ,21/08/2018,Not performed,Assumed yes,No ,19/07/2022,Dementia,1,Mixed vascular and Alzheimer's,3,21/08/2018,Alive,NA,CT,1
+LBC360407,Probable,Probable Mixed Vascular/ Alcohol related brain injury,F00.2,29/06/2015,73/100 ACE III (12/05/2015),N/A- deceased,No,19/07/2022,Dementia,1,"Predominantly alcohol, possibly vascular",6,29/06/2015,II,1,CT & MRI,2
+LBC360411,Probable,Probable Alzheimer's,F00.1,12/03/2018,60/100 ACE III (23/08/2017),N/A - deceased,No,28/07/2022,Dementia,1,Alzheimer's,1,23/08/2017,Died; no dementia recorded,0,MRI,2
+LBC360412,Probable,Probable Dementia with Lewy Bodies ,G31.8,17/03/2011,ACE III 68/100 (July 2010),N/A - deceased,Yes/ Donepezil,28/07/2022,Dementia,1,Lewy body,4,17/03/2011,Ia,1,DAT & CT,3
+LBC360413,Possible,N/A,F06.7,MCI - 11/11/19,73/100 ACE III (17/04/2020),Assumed yes,No,28/07/2022,MCI,3,Unclear,NA,11/11/2019,Died; no dementia recorded,0,No,0
+LBC360415,Probable,Probable Dementia with Lewy Bodies ,G31.8,23/04/2021,16/22 Blind MoCA (20/11/2020),Assumed no,Yes/ Rivastigmine,28/07/2022,Dementia,1,Lewy body,4,23/04/2021,Alive,NA,CT & MRI,2
+LBC360430,Probable,Probable Alzheimer's ,F00.1,23/09/2020,MoCA 23/30 (June 2020),Assumed yes,Yes/ Memantine,28/07/2022,Dementia,1,Alzheimer's,1,23/09/2020,Alive,NA,CT,1
+LBC360439,Probable,Probable Alzheimer's,F00.1,26/07/2017,78/100 ACE III (25/01/2017),Assumed no,Yes/ Donepezil,28/07/2022,Dementia,1,Alzheimer's,1,26/04/2017,II,1,MRI,2
+LBC360448,Possible,N/A,F06.7,MCI - 21/02/2018,16/30 MoCA (12/02/2018),Assumed yes,No,28/07/2022,Not dementia,0,NA,0,NA,Alive,NA,No,0
+LBC360459,Probable,Confirmed Sporadic CJD + Alzheimer's pathology ,F02.1 + F00.1,Confirmed on microscopic examination post-mortem 10/07/2018,23/30 MMSE (21/03/2018),N/A- deceased,No,28/07/2022,Dementia,1,CJD,7,20/03/2018,Died; no dementia recorded,0,CT & MRI,2
+LBC360466,Probable,Probable mixed Alzheimer's and vascular dementia,F00.2,20/01/2021,MMSE 14/30 (20/01/2021),Assumed yes,Yes/ Memantine,28/07/2022,Dementia,1,Mixed vascular and Alzheimer's,3,20/01/2021,Alive,NA,CT,1
+LBC360472,Probable,Probable vascular dementia,F01,26/07/2013,ACE III 79/100 (26/07/2013),N/A - deceased,No,28/07/2022,Dementia,1,Vascular,2,26/07/2013,II,1,CT,1
+LBC360475,Probable,Probable Alzheimer's,F00.1,07/01/2015,ACE III 66/100 (03/12/2014),N/A - deceased,Yes/ Galantamine XL,28/07/2022,Dementia,1,Alzheimer's,1,07/01/2015,II,1,CT,1
+LBC360476,Possible,GP referral mentioned memory concerns on background of mental health,N/A,N/A,"Alert, orientated 14/01/2022",Assumed yes,N/A,28/07/2022,Not dementia,0,NA,0,NA,Alive,NA,No,0
+LBC360478,Probable,Probable mixed Alzheimer's and Lewy Body Dementia,F00.2,18/06/2012,Unknown,N/A - deceased,Yes/ Donepezil,28/07/2022,Dementia,1,Unclear,9,18/06/2012,II,1,CT,1
+LBC360482,Probable,Probable vascular dementia,F01,11/07/2011,MMSE 25/30 (09/06/2011),N/A - deceased,No,28/07/2022,Dementia,1,Vascular,2,09/01/2013,II,1,CT,1
+LBC360483,Probable,"Probable Dementia in Alzheimer's disease, atypical or mixed type",F00.2,15/01/2018,64/100 ACE III (28/11/2017),Assumed no,Yes/ Donepezil,28/07/2022,Dementia,1,Unclear,9,28/11/2017,II,1,CT,1
+LBC360516,Probable,Probable Alzheimer's dementia,F00.1,11/04/2014,Unknown,N/A - deceased,Yes/ Donepezil,28/07/2022,Dementia,1,Alzheimer's,1,11/04/2014,Ib,1,No,0
+LBC360537,Possible,GP referral to MATS due to short term memory issues,N/A,N/A,6CIT 10/28 (22/12/2021),Assumed yes,N/A,28/07/2022,Dementia,1,Alzheimer's,1,18/05/2022,Alive,NA,MRI,2
+LBC360539,Probable,Probable Alzheimer's Dementia,F00.1,20/05/2021,ACE-III 66/100 (20/05/2021),Assumed yes,Yes / Donepezil,28/07/2022,Dementia,1,Alzheimer's,1,20/05/2021,Alive,NA,No,0
+LBC360542,Probable,Probable Vascular Dementia due cerebral amyloid angiopathy ,F01.9/ I68.0,05/11/2019,46/100 ACE III (07/03/2019),Assumed no,No,28/07/2022,Dementia,1,Vascular,2,05/11/2019,Died; no dementia recorded,0,MRI,2
+LBC360550,Probable,Probable Alzheimer's,F00.1,19/01/2021,28/30 MMSE (07/07/2020),Assumed yes,Yes/ Donepezil,28/07/2022,Dementia,1,Alzheimer's,1,28/09/2020,Alive,NA,MRI,2
+LBC360557,Probable,"Probable Mixed Dementia (Alzheimer's, Parkinson's Disease Dementia, Vascular)",F00.2,13/07/2017,82/100 ACE III (02/06/2017),N/A- deceased,Yes/ Memantine,28/07/2022,Dementia,1,Parkinson's disease,7,13/07/2017,Died; no dementia recorded,0,MRI,2
+LBC360559,Probable,Probable mixed Alzheimer's and vascular dementia,F00.2,30/04/2019,ACE III 53/100 (30/04/2019),N/A - deceased,Yes/ Donepezil,28/07/2022,Dementia,1,Mixed Alzheimer's and vascular,3,30/04/2019,Died; no dementia recorded,0,MRI,2
+LBC360604,Probable,Probable mixed Alzheimer's and vascular dementia,F00.2,15/09/2021,ACE III 66/100 (15/09/2021),Assumed yes,Yes/ Donepezil,28/07/2022,Dementia,1,Mixed Alzheimer's and vascular,3,15/09/2021,Alive,NA,CT,1
+LBC360605,Probable,Probable vascular dementia (multi-infarct),F01.1,14/10/2020,62/100 ACE III (08/10/2020),N/A- deceased,No,28/07/2022,Dementia,1,Vascular,2,14/10/2020,Died; no dementia recorded,0,CT,1
+LBC360627,Probable,Probable dementia secondary to Multiple Sclerosis,F02.8,23/12/2019,6CIT 17/28 (10/12/2019),N/A - deceased,No,28/07/2022,Dementia,1,MS,7,23/12/2019,Died; no dementia recorded,0,MRI,2
+LBC360632,Probable,Probable vascular dementia,F01,20/03/2019, MoCA 10/30 (06/03/2019),N/A - deceased,No,28/07/2022,Dementia,1,Vascular,2,20/03/2019,Ic,1,CT,1
+LBC360661,Probable,Probable Alzheimer's dementia,F00.1,23/12/2010,Unknown,Assumed no,Yes/ Donepezil,28/07/2022,Dementia,1,Alzheimer's,1,02/07/2010,Alive,NA,No,0
+LBC360670,Probable,Probable Unspecified Dementia,F03,2012,MMSE 21/30 (27/07/2011),N/A - deceased,N/A,28/07/2022,Dementia,1,Mixed Alzheimer's and alcohol,1,25/06/2009,II,1,CT,1
+LBC360671,Probable,Probable Vascular Dementia,F01,12/09/2017,ACE-III 83/100 (12/09/2017),N/A - deceased,N/A,28/07/2022,Dementia,1,Vascular,2,19/07/2017,II,1,CT,1
+LBC360673,Possible,Mild cognitive impairment,F06.7,13/11/2014,ACE-III 90/100 (13/11/2014),Assumed yes,No,28/07/2022,Not dementia,,NA,0,NA,Alive,NA,CT,1
+LBC360685,Possible,Under investigation for dementia at time of death,N/A,N/A,ACE-III 81/100 (20/11/2018),N/A - deceased,N/A,28/07/2022,Possible dementia,2,NA,NA,NA,Died; no dementia recorded,0,CT,1
+LBC360688,Probable,Probable Alzheimer's Dementia,F00.1,25/04/2012,ACE-III 73/100 (25/04/2012),N/A - deceased,N/A,28/07/2022,Dementia,1,Alzheimer's,1,05/02/2014,Died; no dementia recorded,0,No,0
+LBC360689,Probable,Probable Alzheimer's Dementia,F00.1,September 2011,ACE-III 77/100 (July 2012),Assumed no,Yes/ Galantamine XL,28/07/2022,Dementia,1,Alzheimer's,1,15/09/2011,Alive,NA,No,0
+LBC360710,Possible,Mild cognitive impairment,F06.7,15/12/2021,ACE-III 90/100 (07/12/2021),Assumed yes,N/A,28/07/2022,MCI,3,Unclear,NA,15/12/2021,Alive,NA,MRI,2
+LBC360744,Probable,Probable Unspecified Dementia,F03,01/11/2017,MMSE 20/30 (10/10/2017),N/A - deceased,Yes/ Memantine,28/07/2022,Dementia,1,Unclear,9,01/11/2017,II,1,CT,1
+LBC360754,Probable,Probable Mixed Dementia,F00.2,21/04/2014,ACE-III 72/100 (21/04/2014),N/A - deceased,Yes/ Donepezil,28/07/2022,Dementia,1,Mixed Alzheimer's and vascular,3,19/12/2013,Died; no dementia recorded,0,CT,1
+LBC360778,Probable,Probable Alzheimer's Dementia,F00.1,25/05/2012,MMSE 25/30 (25/05/2012),N/A - deceased,Yes/ Donepezil,28/07/2022,Dementia,1,Alzheimer's,1,25/05/2012,Ic,1,No,0
+LBC360782,Probable,Probable Mixed Dementia ,F00.2,12/12/2013,ACE-III 74/100 (12/12/2013),N/A - deceased,Yes/ Galantamine XL,28/07/2022,Dementia,1,Mixed vascular and Alzheimer's,3,12/12/2013,II,1,MRI,2
+LBC360786,Possible,N/A,N/A,N/A,"MMSE 29/30, ACE III 66/100 
+(17/8/22)",Possible,No,02/09/2022,No dementia,0,NA,0,NA,Alive,NA,MRI,2
+LBC360788,Probable,Probable Mixed Dementia ,F00.2,16/11/2021,Tele ACE III 28/62 (10/05/2021),Assumed yes,Yes/ Donepezil,28/07/2022,Dementia,1,Mixed Alzheimer's and vascular,3,12/08/2021,Alive,NA,MRI,2
+LBC360801,Possible,Mild cognitive impairment,F06.7,26/07/2017,ACE-III 80/100 (23/06/2017),N/A - deceased,No,28/07/2022,MCI,3,Unclear,NA,26/07/2017,Died; no dementia recorded,0,MRI,2
+LBC360813,Probable,Probable Alzheimer's Dementia,F00.1,08/11/2017,ACE-III 81/100 (01/11/2017),Assumed yes,Yes/ Donepezil,"05/08/2022 - Donncha, Holly, Tom",Dementia,1,Alzheimer's,1,08/11/2017,Alive,NA,No,0
+LBC360845,Probable,Probable Alzheimer's Dementia,F00.1,03/06/2019,ACE-III 66/100 (30/04/2019),Assumed yes,Yes/ Donepezil,05/08/2022,Dementia,1,Alzheimer's,1,03/06/2019,Alive,NA,No,0
+LBC360846,Possible,Mild cognitive impairment,F06.7,13/07/2015,ACE-III 83/100 (09/06/2015),Assumed yes,No,"16/08/2022 - Tom, Donncha, Lizzie, Susan, Tim",MCI,3,Unclear,NA,09/06/2015,Alive,NA,No,0
+LBC360847,Probable,Probable Alzheimer's Dementia,F00.1,01/03/2019,ACE-III 68/100 (01/03/2019),No,Yes/ Donepezil,05/08/2022,Dementia,1,Alzheimer's,1,12/03/2019,Alive,NA,No,0
+LBC360862,Possible,N/A,N/A,11/11/2020- MCI,66/100 ACE III (11/11/20),Assumed yes,No,16/08/2022,Possible dementia,2,Unclear,NA,11/11/2020,Alive,NA,MRI,2
+LBC360866,Possible,N/A,N/A,26/09/2017- MCI,MOCA 21/30 (26/09/17),Assumed yes,No,16/08/2022,Dementia,1,Alzheimer's,1,14/06/2022,Alive,NA,MRI,2
+LBC360868,Possible,Mild cognitive impairment,F06.7,07/04/2021,Unknown,Assumed yes,No,16/08/2022,No dementia,0,NA,0,NA,Alive,NA,No,0
+LBC360876,Possible,Possible Alzheimer's/ vascular,F06.7,MCI- 30/05/18,ACE III 87/100 (15/05/19),N/A- deceased,No,16/08/2022,MCI,3,Unclear,NA,25/10/2017,Died; no dementia recorded,0,MRI,2
+LBC360885,Probable,"Probable Mixed (Alzheimer's, Vascular) Dementia",F00.2,18/10/2021,ACE-III 63/100 (10/09/2021),Assumed yes,Yes/ Memantine,16/08/2022,Dementia,1,Alzheimer's,1,07/12/2021,Alive,NA,CT,1
+LBC360894,Probable,Vascular (probable),F01.9,13/07/2016 (on KIS),22/30 MMSE (27/12/2019),Assumed no,No,16/08/2022,Dementia,1,Unclear,9,12/07/2016,Alive,NA,CT,1
+LBC360895,Possible,Unspecified (possible),F03.X,31/07/17 (Trak code),MOCA 11/30 (14/07/17),N/A- deceased,No,16/08/2022,No dementia,0,NA,0,NA,Died; no dementia recorded,0,CT,1
+LBC360906,Possible,Mild cognitive impairment,F06.7,08/07/2015,ACE-III 80/100 (presumed 08/07/2015),N/A - deceased,No,16/08/2022,MCI,3,Unclear,NA,02/07/2014,Died; cognitive impairent recorded,0,CT,1
+LBC360907,Probable,Probable mixed Alzheimer's and vascular dementia,F00.2,21/08/2012,78/100 ACE III (02/10/2012),N/A - deceased,Yes/ Memantine,16/08/2022,Dementia,1,Mixed vascular and Alzheimer's,3,21/08/2012,Alive,NA,MRI,2
+LBC360911,Probable,"Probable Mixed (Alzheimer's, Vascular) Dementia",F00.2,22/08/2014,Unknown score but commented it was done in clinic letter,Unknown - patient moved in 2015 to England,Yes/ Galantamine XL,05/08/2022,Dementia,1,Mixed vascular and Alzheimer's,3,22/08/2014,Alive,NA,CT,1
+LBC360922,Probable,Probable Alzheimer's,F00.1,03/03/2021,34/62 adapted ACE III for the telephone (01/02/21),Assumed no,Yes / Memantine,05/08/2022,Dementia,1,Alzheimer's,1,03/03/2021,Alive,NA,No,0
+LBC360923,Probable,Probable Parkinson's disease dementia,F02.3,18/02/2019,ACE III 68/100 (18/02/2019),N/A - deceased,Yes/ Donepezil,05/08/2022,Dementia,1,Parkinson's disease,7,18/02/2019,Alive,NA,CT,1
+LBC360928,Probable,Unspecified (probable),F03.X,27/12/2017,MMSE 16/30 (2017),N/A- deceased,No,16/08/2022,Dementia,1,Unclear,9,27/12/2017,Died; no dementia recorded,0,CT,1
+LBC360933,Possible,N/A,F06.7,21/07/2016- MCI,MOCA 15/30 (29/06/16),Uncertain,No,02/09/2022,No Dementia,0,NA,0,NA,Alive,NA,MRI,2
+LBC360934,Possible,GP referral to MATS due to short term memory issues,N/A,N/A,MMSE 29/30 (25/11/2021),Assumed yes,N/A,05/08/2022,No Dementia,0,NA,0,NA,Alive,NA,No,0
+LBC360967,Possible,"Possible Alzheimer's, recent delirium",N/A,25/06/2018,ACE III 77/100 (11/05/2018),N/A - deceased,No ,16/08/2022,Possible dementia,2,Unclear,NA,25/06/2018,Died; no dementia recorded,0,CT,1
+LBC360973,Possible,Recent deliriums and Mild Cognitive Impairment,F06.7,08/04/2019,Not performed,N/A - deceased,No ,05/08/2022,Not dementia,0,NA,0,NA,Died; no dementia recorded,0,CT,1
+LBC360975,Probable,Probable mixed Alzheimer's and vascular dementia,F00.2,26/05/2014,ACE III 73/100 (21/05/21),N/A - deceased,No (previously Px Memantine),05/08/2022,Dementia,1,Mixed Alzheimer's Vascular,3,26/05/2014,II,1,CT,1
+LBC360978,Probable ,Probable Alzheimer's Dementia,F00.1,09/12/2021,ACE III 71/100 (09/12/2021),Assumed yes - check before invite,No ,05/08/2022,Dementia,1,Alzheimer's,1,16/12/2021,Alive,NA,MRI,2
+LBC360988,Possible ,Possible Alzheimer's,F00.1,Aug-11,Not performed,N/A - deceased ,Presumably Donepezil,16/08/2022,Dementia,1,Unclear,9,02/07/2011,Died; no dementia recorded,0,MRI,2
+LBC360993,Probable,Probable Mixed Vascular / Alzheimer's,F00.2,08/09/2014,62/100 ACE III (18/08/2014),N/A- deceased,No,16/08/2022,Dementia,1,Unclear,9,08/09/2014,II,1,MRI,2
+LBC361017,Probable,Probable mixed Alzheimer's and vascular dementia,F00.2,30/10/2019,ACE III 72/100 (11/09/19),Assumed yes,No,16/08/2022,Dementia,1,Mixed Alzheimer's Vascular,3,30/10/2019,Alive,NA,CT,1
+LBC361029,Probable,Probable Alzheimer's disease,F00.1,04/12/2019,ACE III 84/100 (04/10/19),Assumed yes,Yes/ Donepezil,05/08/2022,Dementia,1,Alzheimer's,1,04/12/2019,Alive,NA,CT,1
+LBC361038,Probable,Probable vascular dementia,F01.9,21/06/2018,ACE III 85/100 (02/05/19),N/A - deceased,No,16/08/2022,Dementia,1,Vascular,2,21/06/2018,II,1,MRI,2
+LBC361047,Probable ,Probable Vascular Dementia,F01,2019 (not diagnosed),ACE III 70/100 (14/06/2019),N/A- deceased,No ,16/08/2022,Dementia,1,Vascular,2,17/10/2019,Alive,NA,MRI,2
+LBC361060,Probable ,Alzheimer's dementia,F00.1,27/09/2021,ACE III 74/100 (08/06/2021),Assumed yes,Yes/Memantine,16/08/2022,Dementia,1,Alzheimer's,1,27/09/2021,Alive,NA,MRI,2
+LBC361070,Probable ,Alzheimer's dementia,F00.1,04/05/2018,ACE III 67/100,Assumed no,Yes/ Donepezil,05/08/2022,Dementia,1,Alzheimer's,1,23/02/2018,Alive,NA,CT,1
+LBC361073,Probable ,"Probable Mixed (Alzheimer's, Vascular) Dementia",F00.2 ,03/07/2013,ACE III 76/100 (03/07/2013),N/A - deceased ,Yes/ Donepezil,05/08/2022,Dementia,1,Mixed Alzheimer's Vascular,3,03/07/2013,II,1,CT,1
+LBC361096,Possible ,Possible mixed dementia,F00.2 ,19/06/2013,ACE III 74/100,Possible,Yes/ Donepezil,05/08/2022,Dementia,1,Mixed Alzheimer's Vascular,3,19/06/2013,Alive,NA,MRI,2
+LBC361097,Possible ,Mild cognitive impairment,F06.7,09/08/2021,ACE III 74/100 (09/08/2021),Assumed yes,No ,16/08/2022,MCI,3,Unclear,NA,09/08/2021,Alive,NA,CT,1
+LBC361101,Possible ,Alzheimer's dementia,F00.1,Unknown/unclear,ACE III 84/100 (August 2007),N/A - deceased ,Yes/ Donepezil,05/08/2022,Dementia,1,Alzheimer's,1,01/02/2009,Died; no dementia recorded,1,CT,1
+LBC361104,Probable ,Alzheimer's dementia,F00.1,12/02/2018,ACE III 79/100 (12/02/2018),N/A - deceased ,No,05/08/2022,Dementia,1,Alzheimer's,1,12/02/2018,II,1,CT,1
+LBC361111,Possible ,N/A,N/A,N/A ,MMSE 13/30,N/A - deceased ,No,16/08/2022,Possible dementia,2,Unclear,NA,08/08/2016,Died; no dementia recorded,0,MRI,2
+LBC361119,Possible ,N/A,N/A,N/A ,N/A,Assumed no ,No,16/08/2022,Possible dementia,2,Unclear,NA,30/03/2020,Alive,NA,MRI,2
+LBC361125,Probable ,Vascular dementia,F01,29/10/2018,ACE III 74/100,Possible,No,16/08/2022,Dementia,1,Vascular,2,29/10/2018,Alive,NA,CT,1
+LBC361134,Probable,Probable Alzheimer's Dementia,F00.1,12/12/2016,ACE-III 56/100 (12/12/2016),N/A -deceased ,Yes/ Galantamine XL,05/08/2022,Dementia,1,Alzheimer's,1,12/12/2016,II,1,No,0
+LBC361138,Probable ,Alzheimer's dementia,F00.1,23/09/2019,ACE III 64/100 (23/09/2019),Possible,Yes/ Donepezil,05/08/2022,Dementia,1,Alzheimer's,1,23/09/2019,Alive,NA,MRI,2
+LBC361155,Probable,"Probable mixed dementia (Alzheimer's, Vascular)",F00.2,26/05/2014,ACE-III 63/100 (26/05/2014),Assumed no,Yes/ Donepezil,05/08/2022,Dementia,1,Mixed Alzheimer's Vascular,3,26/05/2014,Alive,NA,CT,1
+LBC361170,Probable,Mixed dementia (Vascular/Alzheimer's),F00.2,07/02/2019,ACE III 71/100 (07/02/2019),Possible,Yes/Memantine,16/08/2022,Dementia,1,Mixed Alzheimer's Vascular,3,07/02/2019,Alive,NA,MRI,2
+LBC361182,Possible,Mild Cognitive Impairment,F06.7,22/06/2021,MOCA 24/30 (22/06/2021),Assumed yes,No,16/08/2022,No dementia,0,NA,0,NA,Alive,NA,No,0
+LBC361189,Probable,Probable Alzheimer's Dementia,F00.1,18/02/2019,ACE-III 74/100 (18/02/2019),Assumed yes,No,16/08/2022,Dementia,1,Alzheimer's,1,18/02/2019,Alive,NA,MRI,2
+LBC361194,Possible,Mild Cognitive Impairment,F06.7,12/08/2019,ACE-III 85/100 (12/08/2019),N/A -deceased ,No,16/08/2022,MCI,3,Vascular,2,12/08/2019,"Died, no dementia recorded",0,CT,1
+LBC361198,Probable,Probable Alzheimer's Dementia,F00.1,15/12/2014,ACE-III 68/100 (05/08/2014),N/A- deceased,Yes/ Memantine,16/08/2022,Dementia,1,Alzheimer's,1,08/09/2014,II,1,CT,1
+LBC361202,Probable,Probable Alzheimer's Dementia,F00.1,2011,Unknown,N/A- deceased,No,"16/08/2022 - Tim, Susan left",Dementia,1,Alzheimer's,1,02/07/2011,II,1,No,0
+LBC361203,Possible,Mild Cognitive Impairment,F06.7,09/09/2021,ACE-III 75/100 (09/09/2021),Assumed yes,No,16/08/2022,MCI,3,NA,NA,09/09/2021,Alive,0,CT,1
+LBC361213,Probable,"Probable mixed dementia (Alzheimer's, Vascular)",F00.2,13/12/2018,ACE-III 51/100 (13/12/2018),N/A- deceased,No,16/08/2022,Dementia,1,Mixed Alzheimer's Vascular,3,13/12/2018,Alive,NA,CT,1
+LBC361221,Probable,Probable Alzheimer's dementia,F00.1,06/01/2015,MMSE 28/30 (November 2014),N/A- deceased,Yes/ Donepezil initially,16/08/2022,Dementia,1,Alzheimer's,1,06/01/2015,II,1,MRI,2
+LBC361227,Possible,Mild Cognitive Impairment (not formally diagnosed),N/A,N/A,ACE-III 83/100 (04/11/2019),N/A- deceased,No,16/08/2022 - Susan back,No dementia,0,NA,0,NA,"Died, no dementia recorded",0,CT,1
+LBC361229,Possible,Mild Cognitive Impairment,F06.7,02/11/2021,ACE-III 79/100 (02/11/2021),Assumed yes,No,16/08/2022,Dementia,1,Alzheimer's,1,07/06/2022,Alive,NA,MRI,2
+LBC361238,Possible,Mild Cognitive Impairment,F06.7,13/05/2021,"May 2021 88/100 (attention 18/18, fluency 7/14, memory 23/26, language 26/26 and visuospatial 14/16).",Assumed yes,No,16/08/2022,No dementia,0,NA,0,NA,Alive,NA,No,0
+LBC361239,Probable,"Mixed dementia (Alzheimer's, vascular)",F00.2,18/05/2021,ACE-III 56/100 (18/05/2021),Assumed yes,Yes/ Galantamine,16/08/2022,Dementia,1,Alzheimer's,1,13/05/2021,Alive,NA,CT,1
+LBC361276,Probable,Unknown subtype of dementia,Unknown,Unknown,Unknown,Unknown - out of area,Yes/ Galanatamine,16/08/2022,Dementia,1,Alzheimer's,1,08/02/2017,Alive,NA,CT,1
+LBC361282,Possible,"Previous deliriums, referred for cognitive impairment",F05,09/02/2015,Not done,N/A-deceased,No,16/08/2022,No dementia,0,NA,0,NA,Died; no dementia recorded,0,No,0
+LBC361286,Probable,Probable Alzheimer's dementia,F00.1,06/03/2017,ACE-III 91/100 (18/11/2016),Assumed no,Yes/ Donepezil,16/08/2022,Dementia,1,Alzheimer's,1,06/03/2017,Alive,NA,MRI,2
+LBC361290,Probable,Probable Alzheimer's dementia,F00.1,21/05/2019,ACE-III 83/100 (01/05/2019),Assumed no,Yes/ Memantine,16/08/2022,Dementia,1,Alzheimer's,1,21/05/2019,Alive,NA,CT,1
+LBC361294,Probable,Unknown subtype of dementia,Unknown,"Unknown, likely 2022",Unknown,Unknown - out of area,Yes/ Memantine,16/08/2022,Dementia,1,Alzheimer's,1,15/01/2022,Alive,NA,No,0
+LBC361295,Probable,Unknown subtype of dementia,Unknown,"Unknown, likely 2021",Unknown,N/A- deceased,Yes/ Memantine,16/08/2022,Dementia,1,Unclear,9,18/08/2021,Alive,NA,No,0
+LBC361301,Probable,Probable Alzheimer's dementia,F00.1,13/09/2017,MMSE 12/30 (11/09/2017),N/A- deceased,No,16/08/2022,Dementia,1,Alzheimer's,1,12/03/2018,II,1,No,0
