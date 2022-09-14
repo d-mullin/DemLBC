@@ -53,12 +53,20 @@ table(consensus$dem_imaging)
 #2	MRI
 #3	Other – DAT/SPECT/PET
 
-# read in full LBC dataset then full_join with consensus data----
+# full_join consensus with my MCR LBC data----
 lbcdata <- read_csv("~/Dropbox/Academic/PhD/LBC/mcr_project/MCRinLBC/MCRcombinedRecoded.csv")
 nrow(lbcdata)
 lbcconsensus <- full_join(lbcdata, consensus, by = "lbc36no")
-glimpse(lbcconsensus)
 nrow(lbcconsensus) # n = 1091
+
+# full_join consensus with age_at_diagnosis data----
+age_at_diagnosis <- read_csv("raw_data/age_at_diagnosis.csv")
+nrow(age_at_diagnosis) # n = 118
+
+lbcconsensus <- full_join(age_at_diagnosis, lbcconsensus, by = "lbc36no")
+nrow(lbcconsensus) # n = 1091
+glimpse(lbcconsensus)
+
 #subset wave 2-5 group as consent first requested at w2----
 lbcconsensus <- lbcconsensus %>% 
   filter(!is.na(agedays_w2))  # filtering for rows where agedays_w2 is not missing)
