@@ -1,7 +1,7 @@
 # Efficiently install multiple packages at once ---- 
 # from https://statsandr.com/blog/an-efficient-way-to-install-and-load-r-packages/
 
-install.packages("pacman")
+#install.packages("pacman")
 library(pacman)
 pacman::p_load(tidyverse, finalfit, here)
 
@@ -53,19 +53,33 @@ table(consensus$dem_imaging)
 #2	MRI
 #3	Other – DAT/SPECT/PET
 
+# dementia and any imaging
+consensus <-consensus %>% 
+  mutate(dem_ct = if_else(dementia == 1 & dem_imaging ==1, 1, 0),
+         dem_mri = if_else(dementia ==1 & dem_imaging ==2, 1, 0),
+         dem_spect... = if_else(dementia ==1 & dem_imaging ==3, 1, 0),
+         dem_noimage = if_else(dementia ==1 & dem_imaging ==0, 1, 0))
+table(consensus$dem_ct) # 53
+table(consensus$dem_mri) # 43
+table(consensus$dem_spect...) # 3
+table(consensus$dem_noimage) # 19
+
 # full_join consensus with my MCR LBC data----
-lbcdata <- read_csv("~/Dropbox/Academic/PhD/LBC/mcr_project/MCRinLBC/MCRcombinedRecoded.csv")
+lbcdata <- read_csv("raw_data/MCRcombinedRecoded.csv")
 nrow(lbcdata)
 lbcconsensus <- full_join(lbcdata, consensus, by = "lbc36no")
 nrow(lbcconsensus) # n = 1091
 
-# full_join consensus with age_at_diagnosis data----
-age_at_diagnosis <- read_csv("raw_data/age_at_diagnosis.csv")
-nrow(age_at_diagnosis) # n = 118
+# full_join lbcconsensus with death data----
+# d_f_m dataset was sav hence read_delim and "\t"
+death_frailty_mci <- death_frailty_mci <- read_delim("raw_data/death_frailty_mci.csv", 
+                                                     "\t", escape_double = FALSE, trim_ws = TRUE) 
 
-lbcconsensus <- full_join(age_at_diagnosis, lbcconsensus, by = "lbc36no")
+glimpse(death_frailty_mci)
+lbcconsensus <- full_join(death_frailty_mci, lbcconsensus, by = "lbc36no")
 nrow(lbcconsensus) # n = 1091
-glimpse(lbcconsensus)
+
+
 
 #subset wave 2-5 group as consent first requested at w2----
 lbcconsensus <- lbcconsensus %>% 
